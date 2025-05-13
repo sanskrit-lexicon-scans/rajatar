@@ -20,5 +20,5 @@ https://sanskrit-lexicon-scans.github.io/rajatar/app1/?N,N
 Provides access to pages based on one number,N, the internal page number.
 N is in range 1 to 293
 
-https://sanskrit-lexicon-scans.github.io/rajatar/app/?N
+https://sanskrit-lexicon-scans.github.io/rajatar/app0/?N
 
